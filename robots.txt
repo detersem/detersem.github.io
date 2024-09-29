@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://detersem.github.io/sitemap.html.gz
+Sitemap: https://detersem.github.io/app/sitemap.html.gz
+Sitemap: https://detersem.github.io/assets/sitemap.html.gz
+Sitemap: https://detersem.github.io/css/sitemap.html.gz
+Sitemap: https://detersem.github.io/data/sitemap.html.gz
+Sitemap: https://detersem.github.io/includes/sitemap.html.gz
+Sitemap: https://detersem.github.io/item/sitemap.html.gz
+Sitemap: https://detersem.github.io/src/sitemap.html.gz
